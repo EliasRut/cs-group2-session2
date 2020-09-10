@@ -1,4 +1,7 @@
-# Coding Session 2, Group 2
+# Coding Session 2, Group 2#
+
+Elias was here.
+
 This session is all about solving some coding exercises in JavaScript.
 
 ## Getting started
